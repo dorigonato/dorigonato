@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner_modelo4.png" alt="Dorival Rigonato Júnior - Banner" width="100%">
+</p>
+
+
 # 🌎 README – Português | English | Español  
 
 🔽 Escolha seu idioma / Choose your language / Elige tu idioma:
