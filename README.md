@@ -100,7 +100,7 @@ Consulta mis proyectos principales aquí:
 ---
 
 ### 🤝 Conecte-se / Connect / Conecta  
-- **LinkedIn:** www.linkedin.com/in/dorivalrigonato  
+- **LinkedIn:** www.linkedin.com/in/dorival-rigonato-júnior/
 - **GitHub:** https://github.com/dorigonato  
 
 ---
