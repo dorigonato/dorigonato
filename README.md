@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_modelo4.png" alt="Dorival Rigonato Júnior - Banner" width="80%">
+  <img src="banner_modelo4_dourado_menor.png" alt="Dorival Rigonato Júnior - Banner" width="80%">
 </p>
 
 
